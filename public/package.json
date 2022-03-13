@@ -2,7 +2,7 @@
     "name": "fcc-learn-npm-package-json",
     "author": "Zach Richardson",
     "description": "My learning app for NPM",
-    "keywords": ["NPM", "Learn", "Basic"],
+    "keywords": ["NPM", "Learn", "Basic", "freecodecamp"],
     "dependencies": {
       "express": "^4.14.0"
     },
