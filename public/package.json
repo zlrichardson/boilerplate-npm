@@ -4,6 +4,7 @@
     "description": "My learning app for NPM",
     "keywords": ["NPM", "Learn", "Basic", "freecodecamp"],
     "license": "Cost lots of money",
+    "version": "0.0.1",
     "dependencies": {
       "express": "^4.14.0"
     },
